@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Gohartor
-- 👀 I’m interested in data science, artificial intelligence, and machine learning.
-- 🌱 I’m currently learning data mining as part of my Master's degree program.
-- 💞️ I’m looking to collaborate on open-source AI projects, data analysis, and innovative machine learning applications.
+- 👀 I’m a passionate Java beginner, eager to learn and develop practical software applications.
+- 🌱 I’m currently diving into advanced Java concepts, related frameworks, and software design principles.
+- 💞️ I’m looking to collaborate on open-source Java projects, build useful applications, and learn from experienced developers.
 - 📫 How to reach me linkedin.com/in/gohartor
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I enjoy solving complex problems using data and can spend hours working on algorithms without noticing the time!
+- ⚡ Fun fact: I love tackling complex problems with code and enjoy turning ideas into reality!
 
 <!---
 Gohartor/Gohartor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
